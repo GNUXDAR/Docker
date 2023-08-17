@@ -37,6 +37,9 @@
    - $ docker start [nombre-contenedor ó ID]   (iniciar un contenedor)
    - $ docker rm [nombre-contenedor ó ID]       (eliminar un contenedor detenido)
    - $ docker rm -f [nombre-contenedor ó ID]    (forzar eliminado de contenedor)  
+   - 
+   - GilSoft
+   - docker run -it --rm -v $(pwd):/app vuejs
   
   
 6. **Descargar imagen y correr contenedores**  
