@@ -1,5 +1,5 @@
 # Image to Laravel 5.7
-
+Se crea un directorio ./Docker-config dentro del proyecto de Laravel que quieran dockerizar ó clonan este repo y agregan este diorectorio dentro del proyecto
 ## Version PHP
 PHP 7.4.33 (cli) (built: Nov 15 2022 06:03:30) ( NTS )
 Copyright (c) The PHP Group
